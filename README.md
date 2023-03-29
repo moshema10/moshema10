@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Software Developer from Canada</h3>
 
 
-
-- 🌱 I’m currently learning **React Native**
-
 - 📫 How to reach me **shehtabmasud10@gmail.com**
 
 
