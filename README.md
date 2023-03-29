@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from Canada</h3>
 
 
-- 📫 How to reach me **shehtabmasud10@gmail.com**
+📫 How to reach me **shehtabmasud10@gmail.com**
 
 
 
